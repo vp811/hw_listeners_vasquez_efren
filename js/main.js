@@ -14,3 +14,11 @@ y.addEventListener('mouseover', font);
 function font() {
     y.style.color = 'yellow';
 }
+
+/*---------------------Element Three--------------*/
+var z = document.getElementById('elementThree');
+z.addEventListener('dblclick', padding);
+
+function padding() {
+    z.style.textAlign = 'right';
+}
