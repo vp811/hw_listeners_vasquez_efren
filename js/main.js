@@ -17,8 +17,8 @@ y.addEventListener('mouseover', font);
 
 function font() {
     y.style.color = 'yellow';
-    y.style.backgroundColor= 'blue';
-    y.style.fontSize= '1.3em';
+    y.style.backgroundColor = 'blue';
+    y.style.fontSize = '1.3em';
 }
 
 /*---------------------Element Three--------------*/
